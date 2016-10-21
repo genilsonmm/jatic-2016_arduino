@@ -1,0 +1,9 @@
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\bin\Debug\SerialUI.exe.config
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\bin\Debug\SerialUI.exe
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\bin\Debug\SerialUI.pdb
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.csprojResolveAssemblyReference.cache
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.mainForm.resources
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.Properties.Resources.resources
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.csproj.GenerateResource.Cache
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.exe
+C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.pdb
