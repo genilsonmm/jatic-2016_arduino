@@ -15,11 +15,12 @@ void setup() {
 
 void loop() {
 
-  if(seconds == 59){
+  seconds++;
+  
+  if(seconds == 60){
     seconds = 0;
   }
   
-  seconds++;
   if(seconds < 10)
   {
     Serial.println(label + "0" + String(seconds)); 
