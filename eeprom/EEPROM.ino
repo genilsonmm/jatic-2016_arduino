@@ -1,34 +1,28 @@
-/*
-  EEPROM
-  JATIC 22/10/2016 - Arduino na prática
-  Autor: Genilson Medeiros
-*/
-
 #include <EEPROM.h> 
 
-const int button = 7;
-const int led = 10;
+const int pinButton = 7;
+const int pinLed = 10;
 const int address = 0;
 
-boolean hasPressed = false;
+boolean wasPressed = false;
 
 void setup() {
-  pinMode(button, INPUT); 
-  pinMode(led, OUTPUT);
+  pinMode(pinButton, INPUT); 
+  pinMode(pinLed, OUTPUT);
   
-  digitalWrite(led, EEPROM.read(address));
+  Serial.begin(9600);
+  digitalWrite(pinLed, EEPROM.read(address));
 }
 
 void loop() {
   
-  int stateOfButton = digitalRead(button);
+  int stateOfButton = digitalRead(pinButton);
   
   if(stateOfButton == HIGH){
-    hasPressed = !hasPressed;
-    digitalWrite(led, hasPressed);
-    EEPROM.write(address, hasPressed ? 1 : 0); 
+    wasPressed = !wasPressed;
+    digitalWrite(pinLed, wasPressed);
+    EEPROM.write(address, wasPressed ? 1 : 0); 
     delay(300); 
-    
   }
 }
 
