@@ -8,7 +8,7 @@ const int button = 7;
 const int led = 10;
 
 void setup() {
-  pinMode(button, INPUT); /*INPUT_PULLUP para usar o resistor interno*/
+  pinMode(button, INPUT); 
   pinMode(led, OUTPUT);
 }
 
