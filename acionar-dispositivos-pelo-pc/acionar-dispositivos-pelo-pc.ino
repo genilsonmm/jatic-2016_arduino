@@ -1,5 +1,5 @@
 /*
-  Ativar dispositivos
+  Ativar dispositivos pelo PC
   JATIC 22/10/2016 - Arduino na prática
   Autor: Genilson Medeiros
 */

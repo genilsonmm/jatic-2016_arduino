@@ -7,3 +7,11 @@ C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.Pr
 C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.csproj.GenerateResource.Cache
 C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.exe
 C:\Users\Genilson\Desktop\Progs\SerialUI\SerialUI\SerialUI\obj\Debug\SerialUI.pdb
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\bin\Debug\SerialUI.exe.config
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\obj\Debug\SerialUI.exe
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\obj\Debug\SerialUI.pdb
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\bin\Debug\SerialUI.exe
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\obj\Debug\SerialUI.csprojResolveAssemblyReference.cache
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\obj\Debug\SerialUI.mainForm.resources
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\obj\Debug\SerialUI.Properties.Resources.resources
+E:\Programacao\Arduino\JATIC\SerialUI\SerialUI\obj\Debug\SerialUI.csproj.GenerateResource.Cache
